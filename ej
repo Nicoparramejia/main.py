@@ -1,4 +1,2 @@
-name = input("Enter your name: ")
-print("Hello, " + name + "!")
-sex = input ("whats your sex")
-print( name + "your sex is "+ sex)
+answer = (3 + 2 / 2 * 5) ** 2
+print(answer)
